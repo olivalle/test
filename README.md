@@ -1,3 +1,3 @@
 # Test
-Test branch
+Test branch.
 This is a first project initialization
